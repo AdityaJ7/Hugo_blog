@@ -12,5 +12,4 @@ My current goals are to improve my cloud computing knowledge and to learn the ME
 
 This website is supposed to be a portfolio for all my work and will be updated as I progress in my career.
 
-
 Thanks for reading!
